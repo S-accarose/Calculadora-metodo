@@ -1,0 +1,15 @@
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.AssemblyInfoInputs.cache
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.AssemblyInfo.cs
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.csproj.CoreCompileInputs.cache
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.sourcelink.json
+C:\git\Calculadora-metodo\CalculadoraProj\bin\Debug\net8.0\CalculadoraProj.exe
+C:\git\Calculadora-metodo\CalculadoraProj\bin\Debug\net8.0\CalculadoraProj.deps.json
+C:\git\Calculadora-metodo\CalculadoraProj\bin\Debug\net8.0\CalculadoraProj.runtimeconfig.json
+C:\git\Calculadora-metodo\CalculadoraProj\bin\Debug\net8.0\CalculadoraProj.dll
+C:\git\Calculadora-metodo\CalculadoraProj\bin\Debug\net8.0\CalculadoraProj.pdb
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.dll
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\refint\CalculadoraProj.dll
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.pdb
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\CalculadoraProj.genruntimeconfig.cache
+C:\git\Calculadora-metodo\CalculadoraProj\obj\Debug\net8.0\ref\CalculadoraProj.dll
